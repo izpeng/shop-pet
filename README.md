@@ -1,5 +1,5 @@
-# shop-pet
-Shop-pet（宠物商城系统） 2019年8月 - 2019年9月<br/>
+
+# Shop-pet（宠物商城系统） <br/>
 1. github：https://github.com/zhangpengpeng69/shop-pet<br/>
 2. 项目背景：学习商城网站的逻辑与实现，框架的基础加强<br/>
 3. 开发环境：STS、HBuilder、Maven、Navicat、Tomcat、MySql、JDK1.8、PostMan、Git、CentOS<br/>
@@ -14,3 +14,4 @@ Shop-pet（宠物商城系统） 2019年8月 - 2019年9月<br/>
 ![前台](https://i.imgur.com/UjFP2kw.jpg)
 # 后台展示:
 ![后台](https://i.imgur.com/hFVqZtQ.png)
+
